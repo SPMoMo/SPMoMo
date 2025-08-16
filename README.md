@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm SPMoMo!
 
-<!--
-**SPMoMo/SPMoMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a student who loves coding as a hobby, learning new things and exploring the world of software for fun.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- **Student** | Coding for fun – not a pro, but always curious!
+- **Beginner** | Still learning and experimenting with new technologies.
+- **Favorite Project:**  
+  - [Pexielle](https://github.com/SPMoMo/Pexielle)  
+  - [Live Demo](https://spmomo.github.io/Pexielle)  
+- **Achievements:**  
+  - No official achievements yet, but every line of code is a new milestone!
+
+---
+
+## Skills & Technologies
+> Still learning – I don’t know any coding language well yet, but I’m excited to try!
+
+---
+
+## Connect with Me
+- **Instagram:** [@spmomo1101](https://instagram.com/spmomo1101)
+- **Discord:** sp_momo6
+
+---
+
+## Visitor Counter
+
+![Visitor Count](https://komarev.com/ghpvc/?username=SPMoMo&color=blue)
+
+---
+
+Thanks for visiting my profile!  
+Feel free to check out my projects or reach out!
